@@ -2,3 +2,4 @@
 2. login in GITHub
 3. create repository
 4. add file
+5. edited this file to see the modification is getting reflected
