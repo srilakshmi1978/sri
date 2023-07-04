@@ -1,0 +1,4 @@
+1. signin GIThub
+2. login in GITHub
+3. create repository
+4. add file
